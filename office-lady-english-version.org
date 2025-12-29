@@ -72,10 +72,10 @@ japanese-korean illustration
 
 a few lights
 
+** Shot Scale
+
+portrait
+
 * Secondary Content
 
 To highlight the main content, the finer details of secondary content can be appropriately trimmed.
-
-** Shot Scale
-
-upper body
