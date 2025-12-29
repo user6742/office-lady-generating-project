@@ -1,81 +1,73 @@
 #+title: Office Lady
 #+author: Office Lady Maker
 
-* Main Content
-
-The main content *must* appear within the frame. The details of the main content should be as rich as possible.
-
-** Subject
+* Subject
 
 A mature Japanese office lady.
 
-*** Hair
+** Hair
 
 -  Her hair is black with brown highlights.
 -  She parts her hair in the middle and ties it back.
 
-*** Expression
+** Expression
 
 She had a suggestive gentle expression on her face.
 
-*** Cup Size
+** Cup Size
 
 She wears an G cup.
 
-*** Skin
+** Skin
 
 Her skin is rosy and glowing.
 
-*** Lips
+** Lips
 
 Her lips are very thin.
 
-*** Eyes
+** Eyes
 
 She has a pair of phoenix eyes.
 
-*** Freckles
+** Freckles
 
 She has freckles on her face.
 
-*** Accessories
+** Accessories
 
 - She wears a very thin silver necklace and a petite wristwatch.
 - She wears a ring on the ring finger of her left hand.
 - A blue lanyard work badge hung around her neck.
 
-*** Shoulders
+** Shoulders
 
 Her shoulders are very narrow.
 
-*** Tops
+** Tops
 
 She wears a sleeveless high-neck ribbed sweater.
 
-*** Nails
+** Nails
 
 She gets a simple manicure and paints her nails light pink.
 
-** Action
+* Action
 
 She folds her arms across her chest and cocks her head, sizing up the viewer in front of her.
 
-** Enviornment
+* Enviornment
 
-In the office after getting off work late at night.
+in the office after getting off work late at night
 
-** Art Style
+* Art Style
 
 japanese-korean illustration
 
-** Lighting
+* Lighting
 
 a few lights
 
-** Shot Scale
+* Shot Scale
 
 portrait
-
-* Secondary Content
-
-To highlight the main content, the finer details of secondary content can be appropriately trimmed.
