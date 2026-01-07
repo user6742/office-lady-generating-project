@@ -1,9 +1,9 @@
 #+title: Office Lady
 #+author: Office Lady Maker
 
-* Subject and Art Style
+* Subject, Art Style, and Shot Size
 
-- A Japanese-style, high-polish illustration of a mature Japanese office lady.
+- A Japanese-style, high-polish, medium shot illustration of a mature Japanese office lady.
 - This illustration looks like a typical Pixiv work or a Danbooru post.
 
 ** Hair
@@ -140,7 +140,3 @@ She crosses her arms and tilts her head.
 * Lighting
 
 soft lighting
-
-* Shot Scale
-
-portrait
